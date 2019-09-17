@@ -1,7 +1,7 @@
 body {background-image: url("myBackgound.jpg");}
 #nav-table1 {width: 800px;} 
 #nav-td1 {width: 200px; text-align:center;}
-#rodgers {width: 400px;}
+#rodgers {width: 400px; float: center;}
 #TK {width: 300px; height: 400px; float: left;}
-#RJ {width: 200px; height: 300px;}
+#RJ {width: 200px; height: 300px;float: right;}
 #TK1 {width: 200px; height: 300px;}
